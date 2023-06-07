@@ -1,5 +1,5 @@
 # ShipmentInfoAPI
-## HT Selekcijski zadatak 2023
+## HT ljetna praksa Selekcijski zadatak 2023
 
 Realizirana je baza podataka i https server zajedno sa get i post metodama te njihovom interakcijom sa bazom.
 
